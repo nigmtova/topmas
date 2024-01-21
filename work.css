@@ -104,3 +104,11 @@ body{
 .work_card:hover .work_titles img{
     opacity: 1;
 }
+@media(max-width: 1200px){
+    .work_cards_right h2{
+        font-size: 50px !important;
+    }
+}
+@media(max-width: 1000px){
+    
+}
